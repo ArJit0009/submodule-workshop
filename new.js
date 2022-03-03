@@ -6,4 +6,4 @@ const sum = num1 + num2;
 const sum2 = num1 - num2;
 
 // display the sum
-console.log('The sum of two numbers is to be ' + num1 + ' and ' + num2 + ' is: ' + sum);
+console.log('The sum of two numbers is ___ ' + num1 + ' and ' + num2 + ' is: ' + sum);
